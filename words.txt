@@ -1,0 +1,12 @@
+apple
+banana 
+cherry 
+dog 
+elephant 
+flower
+apple
+guitar 
+house 
+ice 
+cream 
+jazz
